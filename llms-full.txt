@@ -1,0 +1,148 @@
+# ECOS Medicare Solutions — Minnesota (full reference)
+
+Website: https://minnesotamedicareenrollment.com/
+Phone: (702) 706-6564
+Email: darinweidauer@ecos.care
+Service area: State of Minnesota (statewide — by phone and video)
+Last reviewed: 2026-09-03
+
+## About
+ECOS Medicare Solutions is an independent Medicare insurance agency helping Minnesota retirees and people approaching 65 compare their Medicare options clearly, patiently, and at no cost. Independent agents are paid by the insurance carriers when a client enrolls, so there is no charge to the consumer, and plan premiums are the same whether you enroll with our help or on your own.
+
+## Agent / author
+Darin Weidauer, MBA, RSSA — independent Medicare insurance agent licensed in Minnesota (NPN 18580338) and 14 other states (AZ, CA, CO, FL, GA, MN, NC, NM, NV, OH, SC, TN, TX, UT, WA), credentialed gerontologist (since 2014), Registered Social Security Analyst, and 22-year U.S. Air Force veteran (retired officer). Author of "Retire With Confidence: Medicare, Social Security, and the Money Decisions That Decide Your Retirement" (2026 Edition, 295 pages). Former Professor of Aerospace Studies at Loyola Marymount University; has lectured at more than 50 colleges and universities. Canonical author profile: https://www.myecos360.com/darin-weidauer
+
+## Medicare Advantage plans in Minnesota
+URL: https://minnesotamedicareenrollment.com/medicare-advantage
+- A Medicare Advantage plan bundles Part A, Part B and usually Part D into one private plan with a network. You keep paying the Part B premium ([[YEAR]]: $202.90) plus any plan premium.
+- For the 2026 plan year UCare stopped selling Medicare Advantage statewide, and HealthPartners, Humana and UnitedHealthcare left dozens of Minnesota counties, mostly outside the metro.
+- A discontinued plan gives you a Special Enrollment Period and, in most cases, a guaranteed-issue right to buy a Minnesota Basic or Extended Basic supplement without health questions.
+- Minnesota’s 2027 plan lineups are announced October 1, 2026; the Annual Election Period runs October 15 to December 7.
+- Q: Does Medicare Advantage replace Original Medicare? A: Not exactly. You keep Medicare, but a private Advantage plan administers your benefits and adds extras. You generally use the plan’s network and its rules instead of Original Medicare’s.
+- Q: Is there really a $0 premium? A: Many Advantage plans have a $0 monthly plan premium, but you still pay your Part B premium ($202.90 in [[YEAR]]), and you may have copays, coinsurance and a deductible. We show you the full picture, not just the premium.
+- Q: My Minnesota Advantage plan was discontinued. Can I get a Medigap policy now? A: In most cases, yes. Losing your plan through no fault of your own gives you a guaranteed-issue right to buy a Minnesota Basic or Extended Basic supplement without health questions, generally within 63 days of the coverage ending, plus a Special Enrollment Period to pick a new Advantage or Part D plan. Call before the deadline on your notice.
+- Q: Can I switch later if it isn’t a fit? A: Yes. You can change during the Annual Election Period (Oct 15–Dec 7), and the Medicare Advantage Open Enrollment Period (Jan 1–Mar 31) lets current Advantage members switch once or return to Original Medicare. Special circumstances, including moving counties, open other windows.
+
+## Medicare Supplement plans in Minnesota: Basic and Extended Basic
+URL: https://minnesotamedicareenrollment.com/medicare-supplement
+- Minnesota does not use the federal Medigap letters A–N. Under Minnesota Statutes §62A.31, insurers sell a Basic plan and an Extended Basic plan, and may add optional riders to Basic.
+- Both base plans are guaranteed available during your six-month Medigap open enrollment, which starts when you are 65 or older and enrolled in Part B. Minnesota also extends open enrollment to people under 65 on Medicare because of a disability.
+- New for 2026: beginning August 1, 2026, Minnesotans aged 65–70 may buy a supplement during the Annual Election Period (Oct 15–Dec 7), one time, without medical underwriting. Insurers may charge a surcharge that starts at 15% in 2026 and rises 5 points a year to 35%, for the life of the policy.
+- Because benefits are standardized, the real difference between carriers is price and how fast it rises. Our research site publishes Minnesota carriers’ filed rate history.
+- Q: Does Minnesota have Medigap Plan G or Plan N? A: No. Minnesota, Massachusetts and Wisconsin standardize Medicare supplements their own way. Minnesota sells a Basic plan and an Extended Basic plan, with optional riders on Basic. A Basic plan with the Part A deductible and excess-charge riders is the closest thing to a federal Plan G; copay versions of Basic are the closest thing to Plan N.
+- Q: Do I need a separate drug plan with a Minnesota supplement? A: Yes. Neither Basic nor Extended Basic includes prescription coverage, so you add a standalone Part D plan. We help you pick one around your specific medications.
+- Q: What is the new Minnesota Medigap rule for 2026? A: Beginning August 1, 2026, people aged 65 to 70 can buy a Medicare supplement during the Annual Election Period (October 15 to December 7) without medical underwriting, one time. Insurers may charge a surcharge over the standard premium, starting at 15% in 2026 and rising 5 points each year to a maximum of 35%, and it lasts as long as you keep the policy. Confirm the details with the Minnesota Department of Commerce or Minnesota Aging Pathways before relying on it.
+- Q: Can I be turned down for a Minnesota supplement? A: Not during your six-month open enrollment, not during a guaranteed-issue event such as your Advantage plan being discontinued, and not during the new ages 65–70 annual window. Outside those, insurers can use medical underwriting in Minnesota.
+- Q: How much does a Minnesota supplement cost? A: It depends on the plan, the riders, your age, tobacco use and the carrier, and every carrier raises rates on its own schedule. We compare current premiums and each company’s filed rate history with you; we do not publish a number here without the filing behind it.
+
+## Medicare Cost plans in Minnesota: where they remain and who they fit
+URL: https://minnesotamedicareenrollment.com/medicare-cost-plans
+- A Medicare Cost plan is a Medicare health plan that uses a network at home but lets you get care anywhere under Original Medicare. It can include Part D or be paired with a standalone Part D plan.
+- Cost plans ended in most of Minnesota (including the entire Twin Cities metro) in 2019 under a federal rule that retires them wherever two or more Medicare Advantage plans compete.
+- For [[YEAR]] they are still sold in 21 counties, listed below, by Blue Cross Blue Shield of Minnesota and Medica. Premiums and county availability are published each year by the Minnesota Department of Commerce.
+- You can enroll in or leave a Cost plan any month it is accepting members — you do not have to wait for the Annual Election Period.
+- Q: Are Medicare Cost plans still available in Minnesota? A: Yes, in 21 counties for [[YEAR]]: Aitkin, Carlton, Cook, Goodhue, Itasca, Kanabec, Koochiching, Lake, Le Sueur, McLeod, Meeker, Mille Lacs, Pine, Pipestone, Rice, Rock, St. Louis, Sibley, Stevens, Traverse and Yellow Medicine, per the Minnesota Department of Commerce. They ended in the Twin Cities metro and most other counties in 2019.
+- Q: Who sells Medicare Cost plans in Minnesota? A: Blue Cross Blue Shield of Minnesota and Medica. The Minnesota Department of Commerce publishes each company’s Cost plan premiums by county every year.
+- Q: What is the difference between a Cost plan and Medicare Advantage? A: Both use a network at home. Outside the network, a Cost plan falls back on Original Medicare so your care is still covered (with Medicare’s cost-sharing), while most Advantage plans cover only emergencies. Cost plans also let you enroll or leave any month; Advantage plans are tied to enrollment periods.
+- Q: Can I join a Cost plan outside the Annual Election Period? A: Yes. Cost plans accept enrollment any month they are open to new members, and you can leave any time by returning to Original Medicare. If the plan includes Part D, the drug portion follows Part D’s enrollment rules.
+
+## Medicare Part D drug plans in Minnesota
+URL: https://minnesotamedicareenrollment.com/part-d
+- [[YEAR]] Part D out-of-pocket cap: $2,100. Once your spending on covered drugs reaches it, you pay $0 for covered medications the rest of the year.
+- [[YEAR]] maximum Part D deductible: $615; many plans set a lower one or none. The national base premium used for penalties is $38.99.
+- Going 63 or more days without creditable drug coverage after you are first eligible adds a permanent penalty to your premium.
+- Minnesota Cost plans can include Part D or be paired with a standalone plan from any company; a Basic or Extended Basic supplement always needs a separate Part D plan.
+- Q: When should I enroll in Part D? A: Usually when you first become eligible for Medicare, even if you take few or no medications — that avoids the late-enrollment penalty. Exceptions apply if you have other creditable drug coverage such as an employer plan, TRICARE For Life or VA pharmacy benefits.
+- Q: What is the [[YEAR]] Part D out-of-pocket cap? A: $2,100. After your covered-drug spending reaches that amount in [[YEAR]], you pay nothing more for covered medications for the rest of the year.
+- Q: Do I need Part D with a Minnesota Cost plan? A: You need creditable drug coverage from somewhere. Some Cost plans include Part D; if yours does not, you can add a standalone Part D plan from any company.
+- Q: Can you help me pick a plan around my medications? A: Yes — that is the most useful thing we do here. Bring your medication list and pharmacy, and we compare plans on your total expected yearly cost.
+
+## [[YEAR]] Medicare costs and IRMAA, with calculators
+URL: https://minnesotamedicareenrollment.com/medicare-costs
+- [[YEAR]] Part B standard premium $202.90/month; Part B deductible $283; Part A hospital deductible $1,736 per benefit period.
+- [[YEAR]] Part D: out-of-pocket cap $2,100; maximum deductible $615; national base premium $38.99.
+- IRMAA surcharges begin above $109,000 (single) or $218,000 (joint) of 2024 modified adjusted gross income, and are a cliff: $1 over a threshold moves you to the whole next tier.
+- Part B late penalty: 10% for each full 12 months without Part B or creditable coverage, for life. Part D late penalty: about 1% of the base premium per month without creditable drug coverage.
+- Q: What is the standard Medicare Part B premium for [[YEAR]]? A: The standard Part B premium is $202.90 per month in [[YEAR]], with a $283 annual deductible. Higher-income beneficiaries pay more through IRMAA.
+- Q: What is IRMAA? A: IRMAA (Income-Related Monthly Adjustment Amount) is a surcharge added to your Part B and Part D premiums if your income is above certain thresholds. For [[YEAR]] it is based on your 2024 tax return and starts above $109,000 (single) or $218,000 (joint).
+- Q: What is the Part D out-of-pocket cap in [[YEAR]]? A: $2,100. Once your spending on covered drugs reaches that amount in [[YEAR]], you pay nothing more for covered medications for the rest of the year.
+- Q: Can I get help paying the Part B premium in Minnesota? A: Possibly. Minnesota’s Medicare Savings Programs (QMB, SLMB and QI) pay the Part B premium for people with limited income, and Minnesota’s asset limits ($10,000 single / $18,000 married) are higher than most states’. Apply through your county or tribal human services office; see our Medical Assistance page.
+
+## Turning 65 in Minnesota: your Medicare starter guide
+URL: https://minnesotamedicareenrollment.com/turning-65
+- Your Initial Enrollment Period is 7 months: the 3 months before your birthday month, the month itself, and the 3 months after. Enroll in the first 3 to avoid a gap.
+- Your Medigap open enrollment is a separate 6-month window that starts when you are 65 and have Part B. In Minnesota it guarantees you the Basic and Extended Basic plans regardless of health.
+- Still working with qualifying employer coverage? You can usually delay Part B without penalty and get a Special Enrollment Period later.
+- Miss Part B or Part D without creditable coverage and the penalty lasts for life: 10% per 12 months for Part B; about 1% per month for Part D.
+- Q: When should I sign up for Medicare if I’m turning 65? A: During your Initial Enrollment Period — the seven months that span the three months before your birthday month, your birthday month, and the three months after. Signing up in the first three months means coverage starts on the first of your birthday month.
+- Q: Do I have to take Part B at 65 if I’m still working? A: Not always. If you have qualifying employer coverage (generally from an employer with 20 or more employees), you may delay Part B without penalty and get a Special Enrollment Period later. The rules depend on the employer’s size, so confirm before you decide.
+- Q: Is it better to get Medicare Advantage or Original Medicare with a supplement in Minnesota? A: Neither is automatically better — it depends on your doctors, prescriptions, travel and budget, and in 21 counties a Cost plan is a third choice. We compare them with you so the choice fits your life.
+- Q: What is different about turning 65 in Minnesota? A: Your supplement choices are Basic and Extended Basic rather than the lettered plans, Cost plans still exist in 21 counties, and if you later regret an Advantage choice, a new state rule gives people aged 65–70 a one-time fall window to buy a supplement without health questions, with a surcharge.
+
+## Medicare for Minnesota snowbirds
+URL: https://minnesotamedicareenrollment.com/snowbirds
+- A Minnesota Basic or Extended Basic supplement, with Original Medicare, works with any provider in the U.S. that accepts Medicare — the simplest snowbird coverage there is.
+- A Medicare Cost plan (21 counties) covers you out of area through Original Medicare, with Medicare’s cost-sharing. That is the main reason Cost plans stayed popular in Minnesota.
+- Most Medicare Advantage HMOs cover only emergencies and urgent care outside their service area; some PPOs cover routine care out of network at higher cost. Read the Evidence of Coverage, not the brochure.
+- Your plan is tied to the county of your permanent residence. If you change your legal residence to Arizona, you get a Special Enrollment Period and must pick a plan sold there. Our sister agency has offices in Mesa and Sun City.
+- Q: Does my Minnesota Medicare Advantage plan work in Arizona? A: For emergencies and urgent care, yes — every plan covers those anywhere in the U.S. For routine care, most HMOs do not; some PPOs cover out-of-network care at higher cost, and a few plans have a travel benefit. Read the Evidence of Coverage, and if travel is why you are choosing the plan, get the benefit in writing.
+- Q: Does a Minnesota Medicare supplement work in other states? A: Yes. A Basic or Extended Basic policy pays alongside Original Medicare with any provider in the country that accepts Medicare, with no network and no service area. It is the simplest snowbird coverage.
+- Q: How long can I be out of state without losing my plan? A: It depends on the plan; most Medicare Advantage and Cost plans allow up to six months out of the service area, some up to twelve. Changing your legal residence ends the plan regardless of time, and gives you a Special Enrollment Period to pick a plan where you live now.
+- Q: Can you help me if I become an Arizona resident? A: Yes. Our agency is licensed in Arizona and has offices in Mesa and Sun City through our Arizona site, and we are licensed in Florida and Texas as well. We help you move your coverage cleanly, including the Medigap switching rules that differ by state.
+
+## Medicare for Minnesota veterans
+URL: https://minnesotamedicareenrollment.com/veterans
+- TRICARE For Life requires Medicare Part A and Part B and pays secondary to Medicare. Its pharmacy is creditable, so a separate Part D plan is usually unnecessary.
+- VA health care does not coordinate with Medicare. VA medical coverage is not creditable for Part B, so delaying Part B because you have VA care can trigger a lifelong penalty; VA pharmacy is creditable for Part D.
+- Minnesota’s VA care runs through the Minneapolis VA Health Care System, the St. Cloud VA, and the Fargo VA for the northwest, plus community clinics statewide.
+- With TRICARE For Life, an MA-only plan (Advantage without drug coverage) can add dental or vision without duplicating your prescription benefit.
+- Q: I have VA health care. Do I need Medicare Part B? A: In most cases, yes — enroll on time. VA medical coverage is not considered creditable for Part B, so delaying Part B can cause a permanent late penalty. Having both VA and Medicare gives you more options for where to get care.
+- Q: With TRICARE For Life, do I need a Part D drug plan or a Minnesota supplement? A: Usually neither. TRICARE For Life pharmacy is creditable drug coverage, and TFL already pays secondary to Medicare, filling the gaps a supplement would. That is also why an MA-only plan can make sense if you want dental or vision.
+- Q: Does Medicare work at the Minneapolis or St. Cloud VA? A: No. Medicare does not pay for care at VA facilities, and the VA does not cover Medicare cost-sharing. They operate separately, which is why many veterans keep both.
+- Q: Is VA pharmacy coverage enough to avoid the Part D penalty? A: Yes. VA prescription coverage is creditable for Part D, so you can skip a Part D plan without a penalty as long as you keep it. Keep the VA’s notice of creditable coverage in case you enroll in Part D later.
+
+## Medicare and Minnesota Medical Assistance
+URL: https://minnesotamedicareenrollment.com/medicaid
+- Medical Assistance (MA) is Minnesota’s Medicaid program, run by the Department of Human Services. For people 65 and over you apply through your county or tribal human services office, not MNsure.
+- Minnesota Senior Health Options (MSHO) is a voluntary program for people 65+ with Medicare Parts A and B and Medical Assistance: one health plan covers Medicare, Medicaid, Part D drugs and long-term services with a care coordinator.
+- Medicare Savings Programs (QMB, SLMB, QI) pay the Part B premium ($202.90 in [[YEAR]]) and, for QMB, Medicare’s deductibles and copays. Minnesota’s asset limits are $10,000 (single) and $18,000 (married), higher than most states.
+- Qualifying for a Medicare Savings Program or Medical Assistance automatically qualifies you for Extra Help with Part D costs. Free counseling: Minnesota Aging Pathways, 800-333-2433.
+- Q: What is Minnesota Senior Health Options (MSHO)? A: A voluntary Minnesota program for people 65 and older who have Medicare Parts A and B and qualify for Medical Assistance. One health plan covers Medicare, Medical Assistance, Part D drugs and long-term services, with a care coordinator. It is Minnesota’s version of a Dual Special Needs Plan.
+- Q: Who counts as dual eligible in Minnesota? A: People who qualify for both Medicare and Medical Assistance. There are full and partial categories; eligibility is determined by your county or tribal human services office and CMS, based on income and assets.
+- Q: Can Medical Assistance pay my Part B premium? A: Possibly. Minnesota’s Medicare Savings Programs (QMB, SLMB and QI) pay the Part B premium for people who qualify, with asset limits of $10,000 (single) and $18,000 (married). Apply through your county human services office; Minnesota Aging Pathways (800-333-2433) can help.
+- Q: Where do I apply for Medical Assistance if I am over 65? A: Through your county or tribal human services office, using the DHS application for seniors and people with disabilities — not through MNsure, which handles coverage for people under 65.
+
+## Chronic Special Needs Plans (C-SNPs) in Minnesota
+URL: https://minnesotamedicareenrollment.com/chronic-snp
+- A C-SNP is a Medicare Advantage plan limited to people with a specific qualifying chronic condition, verified by a provider.
+- It includes Part D, usually a formulary built around the condition, and care coordination; premiums are often $0 or low.
+- Availability varies by Minnesota county and changed for 2026 with the carrier exits; a regular Advantage plan or a Minnesota supplement may still serve you better.
+- You can enroll in a C-SNP outside the normal windows when you are first diagnosed or first qualify.
+- Q: Who can join a Chronic Special Needs Plan in Minnesota? A: People with Medicare Parts A and B who have a qualifying chronic condition, confirmed by a provider, and who live in the plan’s service area. Availability varies by county in Minnesota and changes each plan year.
+- Q: Does a C-SNP include drug coverage? A: Yes. C-SNPs are Medicare Advantage plans that include Part D prescription coverage, usually with a formulary tailored to the plan’s target condition.
+- Q: How much does your help cost? A: Nothing. Independent agents are paid by the carriers when you enroll, so comparing plans is free to you.
+
+## Institutional Special Needs Plans (I-SNPs) in Minnesota
+URL: https://minnesotamedicareenrollment.com/institutional-snp
+- An I-SNP is a Medicare Advantage plan for people who live, or are expected to live, 90 days or more in a qualifying facility, or who need that level of care at home per a state assessment.
+- It brings care coordination on site — often nurse practitioners working with facility staff — and includes Part D.
+- In Minnesota, many people in long-term care also qualify for Medical Assistance; MSHO may then be the better fit, and we compare the two.
+- Q: Who qualifies for an Institutional SNP? A: Generally, people with Medicare who live in (or are expected to need, for 90+ days) a qualifying institutional setting such as a nursing facility, or who need an institutional level of care at home, as determined by an approved assessment.
+- Q: Can someone living at home join an I-SNP? A: Sometimes. Certain I-SNPs (institutional-equivalent plans) serve people who need a facility level of care but live at home. Availability depends on the plans offered in your Minnesota county.
+- Q: Can you help a family member enroll? A: Yes. We regularly help adult children and caregivers understand the options for a parent or loved one, including how an I-SNP or MSHO coordinates with a facility.
+
+## Retire With Confidence
+URL: https://minnesotamedicareenrollment.com/retirement-guide
+- Forty-seven chapters in six parts: Medicare fundamentals, IRMAA and the income traps, Social Security claiming, retirement income, long-term care and final expense, and a 2026 quick-reference section.
+- Written by Darin Weidauer, gerontologist, Registered Social Security Analyst and retired Air Force officer — the licensed agent behind this site.
+- Emailed on request. Nothing downloads from this page, nothing is for sale, and a phone call is optional.
+- Q: Is the guide really free? A: Yes. It is emailed to you at no cost, with nothing to buy and no obligation. A licensed agent will call only if you ask for a call on the form.
+- Q: Is it specific to Minnesota? A: The book covers Medicare and retirement decisions nationally. For Minnesota specifics — Basic and Extended Basic supplements, Cost plans, MSHO — use the guides on this site alongside it.
+- Q: Will I be added to a mailing list? A: You will receive the guide and, if you asked for a call, a call. You can opt out of any further contact at any time by replying or telling us.
+
+## Areas served
+Cities: Minneapolis, St. Paul, Rochester, Duluth, Bloomington, Brooklyn Park, Plymouth, Woodbury, Maple Grove, St. Cloud, Eagan, Burnsville, Mankato, Moorhead, Brainerd, Bemidji.
+Regions: Twin Cities Metro, Southeast Minnesota, Arrowhead & North Shore, Central Minnesota & Brainerd Lakes, Northwest Minnesota & the Red River Valley, Southwest Minnesota & the Minnesota River Valley, West Central Minnesota.
+
+## Compliance
+We do not offer every plan available in your area. Any information we provide is limited to those plans we do offer in your area. Please contact Medicare.gov, 1-800-MEDICARE, or Minnesota Aging Pathways (800-333-2433) to get information on all your options. ECOS Medicare Solutions is not connected with or endorsed by the U.S. government or the federal Medicare program, and is not affiliated with the State of Minnesota, the VA, the Department of Defense, or TRICARE. This is a solicitation for insurance; a licensed agent may contact you.
