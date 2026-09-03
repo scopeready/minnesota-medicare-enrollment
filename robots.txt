@@ -1,0 +1,68 @@
+# Structured summaries for language models: /llms.txt and /llms-full.txt
+# Minnesota Medicare Enrollment
+# Standard search engines and AI / answer-engine crawlers are welcome.
+User-agent: *
+Allow: /
+Disallow: /thank-you
+Disallow: /source/
+
+Sitemap: https://minnesotamedicareenrollment.com/sitemap.xml
+
+# --- AI and answer-engine crawlers: explicitly welcome ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
