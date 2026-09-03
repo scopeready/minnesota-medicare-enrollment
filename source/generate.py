@@ -48,6 +48,7 @@ NETWORK = [
     ("Georgia Medicare Enrollment", "https://georgiamedicareenrollment.com"),
     ("Medicare Enrollment Nevada", "https://medicareenrollmentnevada.com"),
     ("Colorado Medicare Enrollment", "https://coloradomedicareenrollment.com"),
+    ("Tennessee Medicare Quotes", "https://www.tennesseemedicarequotes.com"),
     ("MyMedigapRate — Medigap rate research", "https://www.mymedigaprate.com"),
     ("MyECOS360 — Darin's author page", "https://www.myecos360.com/darin-weidauer"),
 ]
