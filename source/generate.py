@@ -428,7 +428,7 @@ def footer():
     <div class="disclaimer">
       <p><strong>Medicare disclaimer.</strong> {TPMO}</p>
       <p>{ORG} is not connected with or endorsed by the U.S. government or the federal Medicare program, and is not affiliated with the State of Minnesota, Minnesota Aging Pathways, Minnesota Medical Assistance, the U.S. Department of Veterans Affairs, the Department of Defense, or the TRICARE program. This is a solicitation for insurance. A licensed insurance agent may contact you.</p>
-      <p>Insurance products are offered through {ORG}. Darin Weidauer is a licensed insurance agent in Minnesota (NPN {NPN}{LIC_TXT}) and 14 other states. We may receive compensation from insurance carriers for policies we sell; you pay the same premium whether you enroll through us, another agent, or the carrier directly.</p>
+      <p>Insurance products are offered through {ORG}. Darin Weidauer is a licensed insurance agent in Minnesota (NPN {NPN}{LIC_TXT}) and 16 other states. We may receive compensation from insurance carriers for policies we sell; you pay the same premium whether you enroll through us, another agent, or the carrier directly.</p>
       <p>&copy; <span id="yr">{TODAY.year}</span> {ORG}. Not affiliated with any government agency.</p>
     </div>
   </div>
@@ -989,7 +989,7 @@ We do not offer every plan available in your area. Any information we provide is
 ECOS Medicare Solutions is an independent Medicare insurance agency helping Minnesota retirees and people approaching 65 compare their Medicare options clearly, patiently, and at no cost. Independent agents are paid by the insurance carriers when a client enrolls, so there is no charge to the consumer, and plan premiums are the same whether you enroll with our help or on your own.
 
 ## Agent / author
-Darin Weidauer, MBA, RSSA — independent Medicare insurance agent licensed in Minnesota (NPN 18580338, MN License #40620754) and 14 other states (AZ, CA, CO, FL, GA, MN, NC, NM, NV, OH, SC, TN, TX, UT, WA), credentialed gerontologist (since 2014), Registered Social Security Analyst, and 22-year U.S. Air Force veteran (retired officer). Author of "Retire With Confidence: Medicare, Social Security, and the Money Decisions That Decide Your Retirement" (2026 Edition, 295 pages). Former Professor of Aerospace Studies at Loyola Marymount University; has lectured at more than 50 colleges and universities. Canonical author profile: https://www.myecos360.com/darin-weidauer
+Darin Weidauer, MBA, RSSA — independent Medicare insurance agent licensed in Minnesota (NPN 18580338, MN License #40620754) and 16 other states (AZ, CA, CO, FL, GA, HI, IN, MN, NC, NM, NV, OH, SC, TN, TX, UT, WA), credentialed gerontologist (since 2014), Registered Social Security Analyst, and 22-year U.S. Air Force veteran (retired officer). Author of "Retire With Confidence: Medicare, Social Security, and the Money Decisions That Decide Your Retirement" (2026 Edition, 295 pages). Former Professor of Aerospace Studies at Loyola Marymount University; has lectured at more than 50 colleges and universities. Canonical author profile: https://www.myecos360.com/darin-weidauer
 """)
     for p in TOPIC_PAGES:
         full.append(f"\n## {unesc(p['h1'])}\nURL: {SITE_URL}/{p['slug']}\n")
