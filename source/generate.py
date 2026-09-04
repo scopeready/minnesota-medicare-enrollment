@@ -49,6 +49,9 @@ NETWORK = [
     ("Medicare Enrollment Nevada", "https://medicareenrollmentnevada.com"),
     ("Colorado Medicare Enrollment", "https://coloradomedicareenrollment.com"),
     ("Tennessee Medicare Quotes", "https://www.tennesseemedicarequotes.com"),
+    ("Texas Medicare Enrollment", "https://texasmedicareenrollment.com"),
+    ("Medicare Enrollment Utah", "https://medicareenrollmentutah.com"),
+    ("Medicare Enrollment Florida", "https://medicareenrollmentflorida.com"),
     ("MyMedigapRate — Medigap rate research", "https://www.mymedigaprate.com"),
     ("MyECOS360 — Darin's author page", "https://www.myecos360.com/darin-weidauer"),
 ]
@@ -63,6 +66,9 @@ SAMEAS_DARIN = [
     "https://www.youtube.com/channel/UCD1XkkknhQ3UT-8AteYD3vQ",
     "https://www.medicareenrollmentarizona.com/about",
     "https://georgiamedicareenrollment.com/",
+    "https://texasmedicareenrollment.com/about",
+    "https://medicareenrollmentutah.com/about",
+    "https://medicareenrollmentflorida.com/about",
     "https://www.mymedigaprate.com/about",
 ]
 
