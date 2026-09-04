@@ -602,7 +602,7 @@ FAQ_PAGE = [
 ABOUT_BODY = """<div class="author" style="margin-bottom:2rem">
 <img class="author__photo" src="/darin.jpg" width="600" height="600" alt="Darin Weidauer, independent Medicare insurance agent and credentialed gerontologist" loading="lazy" decoding="async">
 <div>
-<ul class="creds"><li>NPN 18580338 · licensed in Minnesota</li><li>Credentialed gerontologist (2014)</li><li>Registered Social Security Analyst&reg;</li><li>MBA, Pepperdine</li><li>Master&rsquo;s in Long-Term Care, USC</li><li>22-yr USAF veteran (retired officer)</li></ul>
+<ul class="creds"><li>NPN 18580338, MN License #40620754 · licensed in Minnesota</li><li>Credentialed gerontologist (2014)</li><li>Registered Social Security Analyst&reg;</li><li>MBA, Pepperdine</li><li>Master&rsquo;s in Long-Term Care, USC</li><li>22-yr USAF veteran (retired officer)</li></ul>
 <p>Darin Weidauer is an independent Medicare insurance agent, credentialed gerontologist, and Registered Social Security Analyst&reg; who helps Minnesota retirees and people approaching 65 make sense of their Medicare options &mdash; clearly, patiently, and with no cost to them.</p>
 </div></div>
 <h2>Background</h2>
@@ -649,7 +649,7 @@ TERMS_BODY = """<p style="color:var(--ink-soft)"><em>Last updated: September 3, 
 <h2>Informational purpose</h2>
 <p>The Site provides general information about Medicare to help you make decisions. It is not legal, tax or medical advice, and it is not a substitute for the official Medicare program or for Minnesota&rsquo;s free counseling program, Minnesota Aging Pathways. Medicare plan availability, costs and rules change and vary by county.</p>
 <h2>Insurance offered through a licensed agent</h2>
-<p>Insurance products referenced on the Site are offered through a licensed insurance agent (Darin Weidauer, NPN 18580338, licensed in Minnesota). Enrollment is subject to plan terms and eligibility. We do not offer every plan available in your area.</p>
+<p>Insurance products referenced on the Site are offered through a licensed insurance agent (Darin Weidauer, NPN 18580338, MN License #40620754, licensed in Minnesota). Enrollment is subject to plan terms and eligibility. We do not offer every plan available in your area.</p>
 <h2>No guarantee of accuracy</h2>
 <p>We work to keep figures current and cite the year and source, but we do not warrant that all information is complete, current or error-free. Always confirm details with the official sources noted on the Site.</p>
 <h2>External links</h2>

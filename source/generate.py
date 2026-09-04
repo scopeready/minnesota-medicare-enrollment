@@ -29,6 +29,8 @@ PHONE = "(702) 706-6564"
 TEL = "+17027066564"
 EMAIL = "darinweidauer@ecos.care"
 NPN = "18580338"
+LIC = "40620754"                      # Minnesota producer licence, shown beside the NPN wherever Darin is named
+LIC_TXT = f", MN License #{LIC}"
 WEB3FORMS_KEY = "fc793a1c-1dd6-4a2e-9078-e907c4ab0428"   # public by design; same inbox as the sister sites
 QUOTE_URL = "https://planenroll.com/?purl=Darin-Weidauer"
 TODAY = date(2026, 9, 3)
@@ -390,7 +392,7 @@ def footer():
         <p class="footer-brand">{ORG}</p>
         <p style="margin-bottom:.6em">Plain-English Medicare guidance for Minnesota retirees and people approaching 65. Independent agency &mdash; we work for you, not a single carrier.</p>
         <p><a href="tel:{TEL}"><strong>{PHONE}</strong></a><br><a href="mailto:{EMAIL}">{EMAIL}</a></p>
-        <p style="font-size:.85rem">Darin Weidauer, licensed insurance agent, NPN {NPN}. Statewide by phone and video.</p>
+        <p style="font-size:.85rem">Darin Weidauer, licensed insurance agent, NPN {NPN}{LIC_TXT}. Statewide by phone and video.</p>
       </div>
       <div><h4>Plans</h4><ul>
         <li><a href="/medicare-advantage">Medicare Advantage</a></li>
@@ -426,7 +428,7 @@ def footer():
     <div class="disclaimer">
       <p><strong>Medicare disclaimer.</strong> {TPMO}</p>
       <p>{ORG} is not connected with or endorsed by the U.S. government or the federal Medicare program, and is not affiliated with the State of Minnesota, Minnesota Aging Pathways, Minnesota Medical Assistance, the U.S. Department of Veterans Affairs, the Department of Defense, or the TRICARE program. This is a solicitation for insurance. A licensed insurance agent may contact you.</p>
-      <p>Insurance products are offered through {ORG}. Darin Weidauer is a licensed insurance agent in Minnesota (NPN {NPN}) and 14 other states. We may receive compensation from insurance carriers for policies we sell; you pay the same premium whether you enroll through us, another agent, or the carrier directly.</p>
+      <p>Insurance products are offered through {ORG}. Darin Weidauer is a licensed insurance agent in Minnesota (NPN {NPN}{LIC_TXT}) and 14 other states. We may receive compensation from insurance carriers for policies we sell; you pay the same premium whether you enroll through us, another agent, or the carrier directly.</p>
       <p>&copy; <span id="yr">{TODAY.year}</span> {ORG}. Not affiliated with any government agency.</p>
     </div>
   </div>
@@ -538,7 +540,7 @@ def byline():
     return f'''<section class="section" style="padding-top:0"><div class="wrap">
 <div class="byline">
 <img src="/darin.jpg" alt="Darin Weidauer" width="52" height="52" loading="lazy">
-<p>Written and reviewed by <a href="/about"><strong>Darin Weidauer</strong></a> &mdash; licensed insurance agent (NPN {NPN}), Gerontologist (USC Leonard Davis School of Gerontology), MBA, Registered Social Security Analyst, and 22-year U.S. Air Force veteran.<span class="rev">Last reviewed {REVIEWED}. Plan availability, benefits and costs change every plan year &mdash; verify current details at <a href="https://www.medicare.gov" rel="noopener">Medicare.gov</a>, 1-800-MEDICARE, or Minnesota Aging Pathways at 800-333-2433.</span></p>
+<p>Written and reviewed by <a href="/about"><strong>Darin Weidauer</strong></a> &mdash; licensed insurance agent (NPN {NPN}{LIC_TXT}), Gerontologist (USC Leonard Davis School of Gerontology), MBA, Registered Social Security Analyst, and 22-year U.S. Air Force veteran.<span class="rev">Last reviewed {REVIEWED}. Plan availability, benefits and costs change every plan year &mdash; verify current details at <a href="https://www.medicare.gov" rel="noopener">Medicare.gov</a>, 1-800-MEDICARE, or Minnesota Aging Pathways at 800-333-2433.</span></p>
 </div></div></section>
 '''
 
@@ -564,13 +566,13 @@ def org_graph(area=None):
             {"@type": "Person", "@id": f"{SITE_URL}/#darin", "name": "Darin Weidauer", "honorificSuffix": "MBA, RSSA",
              "image": f"{SITE_URL}/darin.jpg", "url": f"{SITE_URL}/about",
              "jobTitle": "Independent Medicare Insurance Agent & Gerontologist",
-             "identifier": {"@type": "PropertyValue", "propertyID": "NPN", "value": NPN},
+             "identifier": [{"@type": "PropertyValue", "propertyID": "NPN", "value": NPN}, {"@type": "PropertyValue", "propertyID": "Minnesota insurance license", "value": LIC}],
              "worksFor": {"@id": f"{SITE_URL}/#org"},
              "alumniOf": [{"@type": "CollegeOrUniversity", "name": "Pepperdine University"},
                           {"@type": "CollegeOrUniversity", "name": "University of Southern California"}],
              "hasCredential": [{"@type": "EducationalOccupationalCredential", "credentialCategory": "Registered Social Security Analyst (RSSA)"},
                                {"@type": "EducationalOccupationalCredential", "credentialCategory": "Credentialed Gerontologist"},
-                               {"@type": "EducationalOccupationalCredential", "credentialCategory": "Licensed insurance agent, Minnesota (NPN 18580338)"}],
+                               {"@type": "EducationalOccupationalCredential", "credentialCategory": "Licensed insurance agent, Minnesota (NPN 18580338, MN License #40620754)"}],
              "knowsAbout": ["Medicare", "Medigap", "Social Security claiming", "Gerontology", "Retirement planning"],
              "sameAs": SAMEAS_DARIN},
         ],
@@ -772,7 +774,7 @@ def build_home():
   </div>
 </section>
 <div class="trust"><div class="wrap trust__inner">
-    <span class="trust__item"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6z"/></svg> Licensed in Minnesota (NPN {NPN})</span>
+    <span class="trust__item"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6z"/></svg> Licensed in Minnesota &middot; MN License #{LIC} &middot; NPN {NPN}</span>
     <span class="trust__item"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 1 3 3 6 3s6-2 6-3v-5"/></svg> Gerontologist &amp; RSSA&reg;</span>
     <span class="trust__item"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="8" r="5"/><path d="M8 13l-2 9 6-4 6 4-2-9"/></svg> 22-year U.S. Air Force veteran</span>
     <span class="trust__item"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg> Always free to you</span>
@@ -835,7 +837,7 @@ def build_home():
       <div>
         <h2 style="margin-bottom:.15em">Darin Weidauer, MBA, RSSA&reg;</h2>
         <p style="font-weight:700;color:var(--lake-dark);margin-bottom:.6em">Gerontologist · Registered Social Security Analyst&reg; · U.S. Air Force Veteran</p>
-        <ul class="creds"><li>NPN {NPN} · licensed in Minnesota</li><li>Credentialed gerontologist (2014)</li><li>RSSA&reg;</li><li>22-yr USAF veteran (retired officer)</li><li>Author, <em>Retire With Confidence</em></li></ul>
+        <ul class="creds"><li>NPN {NPN}{LIC_TXT} · licensed in Minnesota</li><li>Credentialed gerontologist (2014)</li><li>RSSA&reg;</li><li>22-yr USAF veteran (retired officer)</li><li>Author, <em>Retire With Confidence</em></li></ul>
         <p>Darin Weidauer is an independent Medicare insurance agent, credentialed gerontologist, and Registered Social Security Analyst&reg; who helps Minnesota retirees and people approaching 65 make sense of their options &mdash; clearly, patiently, and with no cost to them. A 22-year U.S. Air Force veteran who retired as an officer, Darin holds five master&rsquo;s degrees, including an MBA and a Master&rsquo;s in Dispute Resolution from Pepperdine and a Master&rsquo;s in Long-Term Care from USC, and became a credentialed gerontologist in 2014 &mdash; studying the human side of aging, not just the paperwork.</p>
         <p>A former Professor of Aerospace Studies at Loyola Marymount University who has lectured at more than 50 colleges and universities, Darin now channels that teaching instinct into plain-English Medicare education through one-on-one reviews, no-cost workshops, and his book <em>Retire With Confidence</em>. <a href="/about">More about Darin &rarr;</a></p>
       </div>
@@ -868,7 +870,7 @@ def build_about():
                "name": "About Darin Weidauer — Minnesota Medicare Enrollment", "mainEntity": {"@id": f"{SITE_URL}/#darin"},
                "isPartOf": {"@id": f"{SITE_URL}/#website"}, "dateModified": ISO, "inLanguage": "en-US"}
     canonical = page("about", f"About Darin Weidauer | {ORG}",
-                     "Darin Weidauer: independent Medicare agent licensed in Minnesota (NPN 18580338), gerontologist, Registered Social Security Analyst and retired Air Force officer. How he is paid.",
+                     "Darin Weidauer: independent Medicare agent licensed in Minnesota (NPN 18580338, MN License #40620754), gerontologist, Registered Social Security Analyst and retired Air Force officer. How he is paid.",
                      body, [org_graph(), profile, crumb_ld(items)], ogtype="profile")
     register(canonical, "0.7")
 
@@ -952,7 +954,7 @@ def write_discovery():
 Contact: {PHONE} · {EMAIL} · {SITE_URL}/
 
 ## About
-{ORG} is an independent Medicare insurance agency serving the State of Minnesota. Agent: Darin Weidauer, MBA, RSSA — gerontologist, Registered Social Security Analyst, 22-year U.S. Air Force veteran, licensed in Minnesota, NPN {NPN}. Help is free to the consumer; independent agents are paid by carriers at enrollment, and the premium is the same whichever way you buy. Author page: https://www.myecos360.com/darin-weidauer
+{ORG} is an independent Medicare insurance agency serving the State of Minnesota. Agent: Darin Weidauer, MBA, RSSA — gerontologist, Registered Social Security Analyst, 22-year U.S. Air Force veteran, licensed in Minnesota, NPN {NPN}{LIC_TXT}. Help is free to the consumer; independent agents are paid by carriers at enrollment, and the premium is the same whichever way you buy. Author page: https://www.myecos360.com/darin-weidauer
 
 ## What is different about Medicare in Minnesota
 - Medicare supplements are state-standardized as a Basic plan and an Extended Basic plan with optional riders (Minn. Stat. §62A.31). Minnesota does not use the federal plan letters A–N.
@@ -987,7 +989,7 @@ We do not offer every plan available in your area. Any information we provide is
 ECOS Medicare Solutions is an independent Medicare insurance agency helping Minnesota retirees and people approaching 65 compare their Medicare options clearly, patiently, and at no cost. Independent agents are paid by the insurance carriers when a client enrolls, so there is no charge to the consumer, and plan premiums are the same whether you enroll with our help or on your own.
 
 ## Agent / author
-Darin Weidauer, MBA, RSSA — independent Medicare insurance agent licensed in Minnesota (NPN 18580338) and 14 other states (AZ, CA, CO, FL, GA, MN, NC, NM, NV, OH, SC, TN, TX, UT, WA), credentialed gerontologist (since 2014), Registered Social Security Analyst, and 22-year U.S. Air Force veteran (retired officer). Author of "Retire With Confidence: Medicare, Social Security, and the Money Decisions That Decide Your Retirement" (2026 Edition, 295 pages). Former Professor of Aerospace Studies at Loyola Marymount University; has lectured at more than 50 colleges and universities. Canonical author profile: https://www.myecos360.com/darin-weidauer
+Darin Weidauer, MBA, RSSA — independent Medicare insurance agent licensed in Minnesota (NPN 18580338, MN License #40620754) and 14 other states (AZ, CA, CO, FL, GA, MN, NC, NM, NV, OH, SC, TN, TX, UT, WA), credentialed gerontologist (since 2014), Registered Social Security Analyst, and 22-year U.S. Air Force veteran (retired officer). Author of "Retire With Confidence: Medicare, Social Security, and the Money Decisions That Decide Your Retirement" (2026 Edition, 295 pages). Former Professor of Aerospace Studies at Loyola Marymount University; has lectured at more than 50 colleges and universities. Canonical author profile: https://www.myecos360.com/darin-weidauer
 """)
     for p in TOPIC_PAGES:
         full.append(f"\n## {unesc(p['h1'])}\nURL: {SITE_URL}/{p['slug']}\n")
