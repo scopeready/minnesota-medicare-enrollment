@@ -52,6 +52,7 @@ NETWORK = [
     ("Texas Medicare Enrollment", "https://texasmedicareenrollment.com"),
     ("Medicare Enrollment Utah", "https://medicareenrollmentutah.com"),
     ("Medicare Enrollment Florida", "https://medicareenrollmentflorida.com"),
+    ("California Medicare Enrollment", "https://www.californiamedicareenrollment.com"),
     ("MyMedigapRate — Medigap rate research", "https://www.mymedigaprate.com"),
     ("MyECOS360 — Darin's author page", "https://www.myecos360.com/darin-weidauer"),
 ]
@@ -69,6 +70,7 @@ SAMEAS_DARIN = [
     "https://texasmedicareenrollment.com/about",
     "https://medicareenrollmentutah.com/about",
     "https://medicareenrollmentflorida.com/about",
+    "https://www.californiamedicareenrollment.com/about",
     "https://www.mymedigaprate.com/about",
 ]
 
